@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Demo2.dir/main.cpp.o CMakeFiles/Demo2.dir/qmi.cpp.o -o Demo2
