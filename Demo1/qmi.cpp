@@ -10,6 +10,6 @@ ll qmi(ll a, ll b)
 }
 int main()
 {
-    std::cout << qmi(2, 5) << std::endl;
+    std::cout << qmi(2, 6) << std::endl;
     return 0;
 }
