@@ -1,0 +1,3 @@
+/home/CMake_Tutorial/Demo1/CMakeFiles/Demo1.dir
+/home/CMake_Tutorial/Demo1/CMakeFiles/edit_cache.dir
+/home/CMake_Tutorial/Demo1/CMakeFiles/rebuild_cache.dir
